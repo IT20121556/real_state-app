@@ -2,7 +2,7 @@
 
 ### [Live Site](https://real-state-app-one.vercel.app/)
 
-![Real State Application](https://i.ibb.co/hMQM6VV/Web-capture-25-12-2021-191222-real-state-app-one-vercel-app.jpg)
+![Real State Application](https://ibb.co/H2w2Sqq)
 
 ## Introduction
 This is my another project built in next.js framework for real state app called ```DreamProperty```.
