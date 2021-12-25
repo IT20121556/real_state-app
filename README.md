@@ -1,6 +1,6 @@
 # Real World Real State Application
 
-### [Live Site](https://real-state-app-one.vercel.app/)
+### [Live Site](https://real-state-app-one.vercel.app)
 
 ![Real State Application](https://i.ibb.co/hMQM6VV/Web-capture-25-12-2021-191222-real-state-app-one-vercel-app.jpg)
 
